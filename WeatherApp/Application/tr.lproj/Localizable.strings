@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Burak Çokyıldırım on 7.11.2020.
+  
+*/
+
+// Titles
+"ok_title" = "Tamam";
+"yes_title" = "Evet";
+"no_title" = "Hayır";
+"error_title" = "Hata";
+"warning_title" = "Uyarı";
+"home_title" = "Hava Durumu";
+"home_tab_title" = "Anasayfa";
+"cities_title" = "Şehirler";
+
+// Messages
+"error_message.somethings_wrong" = "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.";
+"error_message.has_no_internet" = "Lütfen internet bağlantınızı kontrol ediniz.";

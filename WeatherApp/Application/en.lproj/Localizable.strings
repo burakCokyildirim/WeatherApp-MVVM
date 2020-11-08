@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Burak Çokyıldırım on 7.11.2020.
+  
+*/
+
+// Titles
+"ok_title" = "OK";
+"yes_title" = "Yes";
+"no_title" = "No";
+"error_title" = "Error";
+"warning_title" = "Warning";
+"home_title" = "Weather Forecast";
+"home_tab_title" = "Home Page";
+"cities_title" = "Cities";
+
+
+// Messages
+"error_message.somethings_wrong" = "An unexpected error has occurred. Please try again later.";
+"error_message.has_no_internet" = "Please check your internet connection.";
